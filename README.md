@@ -19,4 +19,8 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/shivayarana/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
