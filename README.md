@@ -7,6 +7,7 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivayarana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shivayarana/LeetCode/tree/master/0011-container-with-most-water) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
 ## Linked List
 |  |
@@ -63,4 +64,12 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivayarana/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivayarana/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivayarana/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
