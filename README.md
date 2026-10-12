@@ -31,16 +31,23 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivayarana/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivayarana/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivayarana/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shivayarana/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
