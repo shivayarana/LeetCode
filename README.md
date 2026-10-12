@@ -6,6 +6,7 @@ my every day activities on leetcode since 4 September 2026
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivayarana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
 ## Linked List
 |  |
@@ -50,4 +51,12 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivayarana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivayarana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
