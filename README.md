@@ -34,16 +34,19 @@ my every day activities on leetcode since 4 September 2026
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivayarana/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivayarana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivayarana/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivayarana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivayarana/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivayarana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -52,6 +55,7 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivayarana/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivayarana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
