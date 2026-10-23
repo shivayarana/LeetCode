@@ -13,6 +13,7 @@ my every day activities on leetcode since 4 September 2026
 ## Linked List
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/shivayarana/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -70,6 +71,7 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivayarana/LeetCode/tree/master/0009-palindrome-number) |
+| [0382-linked-list-random-node](https://github.com/shivayarana/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +80,12 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivayarana/LeetCode/tree/master/0011-container-with-most-water) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shivayarana/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shivayarana/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
