@@ -9,12 +9,14 @@ my every day activities on leetcode since 4 September 2026
 | [0004-median-of-two-sorted-arrays](https://github.com/shivayarana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivayarana/LeetCode/tree/master/0011-container-with-most-water) |
 | [0792-binary-search](https://github.com/shivayarana/LeetCode/tree/master/0792-binary-search) |
+| [0835-linked-list-components](https://github.com/shivayarana/LeetCode/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
 ## Linked List
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/shivayarana/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/shivayarana/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0835-linked-list-components](https://github.com/shivayarana/LeetCode/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -89,4 +91,8 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/shivayarana/LeetCode/tree/master/0382-linked-list-random-node) |
+## Hash Table
+|  |
+| ------- |
+| [0835-linked-list-components](https://github.com/shivayarana/LeetCode/tree/master/0835-linked-list-components) |
 <!---LeetCode Topics End-->
