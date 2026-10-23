@@ -13,6 +13,7 @@ my every day activities on leetcode since 4 September 2026
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/shivayarana/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/shivayarana/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
 ## Design
