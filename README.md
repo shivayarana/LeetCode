@@ -31,6 +31,7 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/shivayarana/LeetCode/tree/master/0176-second-highest-salary) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/shivayarana/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Stack
 |  |
 | ------- |
