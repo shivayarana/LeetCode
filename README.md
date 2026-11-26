@@ -8,6 +8,7 @@ my every day activities on leetcode since 4 September 2026
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivayarana/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shivayarana/LeetCode/tree/master/0011-container-with-most-water) |
+| [0643-maximum-average-subarray-i](https://github.com/shivayarana/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/shivayarana/LeetCode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/shivayarana/LeetCode/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
@@ -106,4 +107,8 @@ my every day activities on leetcode since 4 September 2026
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivayarana/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shivayarana/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shivayarana/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
