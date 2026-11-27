@@ -63,6 +63,7 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shivayarana/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shivayarana/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0835-linked-list-components](https://github.com/shivayarana/LeetCode/tree/master/0835-linked-list-components) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shivayarana/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -111,4 +113,9 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shivayarana/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shivayarana/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shivayarana/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
