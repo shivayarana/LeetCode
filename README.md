@@ -12,6 +12,7 @@ my every day activities on leetcode since 4 September 2026
 | [0792-binary-search](https://github.com/shivayarana/LeetCode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/shivayarana/LeetCode/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/shivayarana/LeetCode/tree/master/0860-design-circular-queue) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivayarana/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +114,7 @@ my every day activities on leetcode since 4 September 2026
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shivayarana/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivayarana/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/shivayarana/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
